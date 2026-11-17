@@ -5,3 +5,4 @@
 
 * [Практическая работа №1](УП/pr1-dostupnost.pdf)
 * [Практическая работа №2](УП/pr2-kontekstnaya-reklama.pdf)
+* [Практическая работа №3](УП/pr3-kontent-marketing.pdf)

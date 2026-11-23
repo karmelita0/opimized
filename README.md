@@ -10,3 +10,13 @@
   <tr><td>2</td><td>Практическая работа №2</td><td><a href="УП/pr2-kontekstnaya-reklama.pdf">открыть</a></td></tr>
   <tr><td>3</td><td>Практическая работа №3</td><td><a href="УП/pr3-kontent-marketing.pdf">открыть</a></td></tr>
 </table>
+
+## Практические работы
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><td>1</td><td>Практическая работа №5</td><td><a href="Практические работы/pr5.pdf">открыть</a></td></tr>
+</table>
+## Лабортаорные работы
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><td>1</td><td>Практическая работа №5</td><td><a href="Лабораторные работы/.pdf">открыть</a></td></tr>
+  <tr><td>2</td><td>Практическая работа №5</td><td><a href="Лабораторные работы/.pdf">открыть</a></td></tr>
+</table>

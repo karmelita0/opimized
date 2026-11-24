@@ -9,6 +9,7 @@
   <tr><td>1</td><td>Практическая работа №1</td><td><a href="УП/pr1-dostupnost.pdf">открыть</a></td></tr>
   <tr><td>2</td><td>Практическая работа №2</td><td><a href="УП/pr2-kontekstnaya-reklama.pdf">открыть</a></td></tr>
   <tr><td>3</td><td>Практическая работа №3</td><td><a href="УП/pr3-kontent-marketing.pdf">открыть</a></td></tr>
+  <tr><td>3</td><td>Практическая работа №4</td><td><a href="УП/pr4-smm.pdf">открыть</a></td></tr>
 </table>
 
 ## Практические работы

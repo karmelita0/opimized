@@ -18,6 +18,6 @@
 </table>
 ## Лабортаорные работы
 <table border="1" cellpadding="6" cellspacing="0">
-  <tr><td>1</td><td>Лаба: Apache</td><td><a href="Лабораторные работы/.pdf">открыть</a></td></tr>
-  <tr><td>2</td><td>Лаба: Nginx/td><td><a href="Лабораторные работы/.pdf">открыть</a></td></tr>
+  <tr><td>1</td><td>Лаба: Apache</td><td><a href="Лабораторные работы/apache-laba.pdf">открыть</a></td></tr>
+  <tr><td>2</td><td>Лаба: Nginx/td><td><a href="Лабораторные работы/nginx-laba.pdf">открыть</a></td></tr>
 </table>
